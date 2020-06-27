@@ -3,3 +3,7 @@
 ################################################################################
 
 /Olympics/bin
+/.vs/Olympics/DesignTimeBuild
+/.vs/Olympics/v15
+/Olympics/obj/Debug
+/packages
